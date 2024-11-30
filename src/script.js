@@ -1,6 +1,6 @@
-import * as THREE from 'three'
-import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js'
-import GUI from 'lil-gui'
+import * as THREE from 'https://unpkg.com/three@0.150.1/build/three.module.js';
+import { OrbitControls } from 'https://unpkg.com/three@0.150.1/examples/jsm/controls/OrbitControls.js';
+import GUI from 'https://unpkg.com/lil-gui@0.17.1/dist/lil-gui.esm.min.js';
 import './style.css'
 import './common.css'
 
